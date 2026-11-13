@@ -3,7 +3,7 @@ import ssl
 import threading
 import sys
 from datetime import datetime, timezone
-printf("Made by Taylor Christian Newsome")
+print("Made by Taylor Christian Newsome")
 DEFAULT_HOST = "127.0.0.1"
 DEFAULT_PORT = 8443
 
